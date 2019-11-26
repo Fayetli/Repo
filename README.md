@@ -2,6 +2,8 @@
 ![logo](shots/fayetprod.png)
 **Programming language:** C++
 
+**Programm:** Dev C++
+
 **Number of laboratories:** 3
 
 **List of laboratories:**

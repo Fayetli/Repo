@@ -1,7 +1,8 @@
+# Fayet's repository
 ![logo](shots/fayetprod.png)
-**Number of laboratories:** 3
-
 **Programming language:** C++
+
+**Number of laboratories:** 3
 
 **List of laboratories:**
 - Laba 9
@@ -16,6 +17,7 @@
 # Other
 You can see all task [here](https://1drv.ms/w/s!ApM96gnEnHr4hmXY1U2ABbdlTcsh)
 
-# Contact Information
+# Support
 - Discord: Fayet#9254
 - Mail: lolthedropper@gmail.com
+- Second mail: melnychuk_ak19@nuwm.edu.ua

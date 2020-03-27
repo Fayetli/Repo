@@ -4,18 +4,18 @@
 
 **Programm:** Dev C++, Visual Studio
 
-**Number of laboratories:** 3
+**Count of laboratories:** %%
 
 **List of laboratories:**
 - Laba 9
 - Laba 10
 - Laba 11
 
-| Laba      | Laba 9  | Laba 10 | Laba 11 | Practice |
-|:----------|:--------|:--------|:--------|:---------|
-| **Task**      |[Link1](shots/ShotLaba9.png)|[Link2](shots/ShotLaba10.png)|[Link3](shots/ShotLaba11.png)| ------- |
-|**Description**|arrays|functions|recursion|classes|
-|**Solution**| [Link1](Labs/Laba9.1.cpp) [Link1.1](Labs/Laba9.2.cpp)|[Link2](Labs/Laba10.1.cpp) [Link2.1](Labs/Laba10.2.cpp)|[Link3](Labs/Laba11.1.cpp)| [Link4](Practice/project2/project2.cpp)
+| Laba      | Laba 9  | Laba 10 | Laba 11 | Practice | %% |
+|:----------|:--------|:--------|:--------|:---------| - |
+| **Task**      |[Link1](shots/ShotLaba9.png)|[Link2](shots/ShotLaba10.png)|[Link3](shots/ShotLaba11.png)| ------- | - |
+|**Description**|arrays|functions|recursion|classes| - |
+|**Solution**| [Link1](Labs/Laba9.1.cpp) [Link1.1](Labs/Laba9.2.cpp)|[Link2](Labs/Laba10.1.cpp) [Link2.1](Labs/Laba10.2.cpp)|[Link3](Labs/Laba11.1.cpp)| [Link4](Practice/project2/project2.cpp) | - |
 
 # Other
 You can see all task [here](https://1drv.ms/w/s!ApM96gnEnHr4hmXY1U2ABbdlTcsh)

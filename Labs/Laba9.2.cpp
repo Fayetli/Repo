@@ -9,7 +9,8 @@ int main(){
 	};
 	for(int a = 0; a < 2; a++){
 		for(int b = 0; b < 2; b++){
-			for(int c = 0; c < 3; c++) cout << T[a][b][c] << "\t";
+			for(int c = 0; c < 3; c++)
+				cout << T[a][b][c] << "\t";
 			cout << endl;
 		}
 		cout << endl;
